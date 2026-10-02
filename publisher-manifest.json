@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "339e62c55bd3f901ce0ed691",
+  "owner": "pdwnavmh",
+  "repo": "page-63735e1d0b8442c0cba60e26",
+  "title": "天航",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "63735e1d0b8442c0cba60e26",
+      "a": "天航",
+      "b": "",
+      "entity": "天航",
+      "brand": "天航",
+      "separator": "",
+      "path": "index.html",
+      "hash": "981ec1655b50fa9eb5e80a1a50fe3f5ffc1370245d50ffffec6cfa73060c71d9",
+      "content": {
+        "keyword1": "天航",
+        "keyword2": "",
+        "primary_entity": "天航",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "天航是面向全球用户的网络加速服务，提供稳定的天航机场订阅、多协议客户端下载与流媒体解锁，支持游戏加速与跨境办公，欢迎访问天航官方网站获取最新下载与套餐。",
+          "AI_DESCRIPTION": "天航是面向全球用户的网络加速服务，提供稳定的天航机场订阅、多协议客户端下载与流媒体解锁，支持游戏加速与跨境办公，欢迎访问天航官方网站获取最新下载与套餐。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F7F4EF;color:#1A2E24;font-size:16px;line-height:1.65}a{color:#1F6B4A}header{background:#1F6B4A;color:#F7F4EF;padding:14px 16px}.brand{font-size:1.35rem;font-weight:700;letter-spacing:.04em}nav{margin-top:8px;display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#F7F4EF;text-decoration:none;font-size:.95rem}main{max-width:800px;margin:0 auto;padding:20px 16px 40px}h1{font-size:1.85rem;color:#145C3A;margin:0 0 12px;line-height:1.3}h2{font-size:1.35rem;color:#145C3A;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #2E8B57}h3{font-size:1.08rem;color:#1F6B4A;margin:16px 0 8px}p{margin:0 0 12px}.lead{font-size:1.05rem}.card{background:#fff;border:1px solid #D4E5D8;border-radius:10px;padding:16px;margin-bottom:14px}.featured{border:2px solid #1F6B4A;background:#F0F7F3}.price{font-size:1.25rem;font-weight:700;color:#1F6B4A}.annual{font-size:.9rem;color:#3D5C4A}ul{margin:8px 0 0;padding-left:1.2em}.steps{counter-reset:step}.step{position:relative;background:#fff;border-left:4px solid #1F6B4A;padding:12px 14px 12px 52px;margin-bottom:12px;border-radius:0 8px 8px 0}.step:before{counter-increment:step;content:counter(step);position:absolute;left:12px;top:12px;width:28px;height:28px;background:#1F6B4A;color:#F7F4EF;border-radius:50%;text-align:center;line-height:28px;font-weight:700;font-size:.9rem}.clients .card{margin-bottom:10px}details{background:#fff;border:1px solid #D4E5D8;border-radius:8px;padding:10px 14px;margin-bottom:10px}summary{font-weight:600;color:#145C3A}details p{margin:10px 0 0}.notice{background:#E8F3EC;border-radius:8px;padding:12px 14px;margin:16px 0}footer{background:#145C3A;color:#E8F3EC;padding:24px 16px;font-size:.92rem}footer a{color:#C5E4D0}.footer-inner{max-width:800px;margin:0 auto}.ad{background:#1F6B4A;padding:10px;text-align:center;margin:12px 0;border-radius:6px}.links{display:flex;flex-wrap:wrap;gap:8px 16px;margin-top:8px}.sitemap{margin:12px 0}</style><header><div class=\"brand\">天航</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">使用说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a></nav></header><main><h1>天航官方网站</h1><p class=\"lead\">天航提供可靠的机场订阅与 VPN 梯子网络加速服务，帮助你在多设备上稳定访问、解锁流媒体并优化游戏延迟。本页为天航官网信息与客户端选择指引。</p><section id=\"intro\"><h2>品牌简介</h2><p>天航面向需要稳定跨境连接的个人与团队，运营天航机场节点网络，并配套主流加速器客户端。我们以森林绿所象征的稳健与克制为产品原则：把带宽、延迟和可用性做扎实，而不是堆砌无法兑现的口号。</p><p>服务覆盖普通线路与 IPLC 专线，订阅可一键导入 Clash 等客户端。官方身份仅以本站公布的套餐、操作说明与下载指引为准，请勿通过非官方渠道安装来路不明的安装包。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版强调全节点原生解锁，适合持续观看海外影音；基础版覆盖常用基础流媒体需求，满足日常浏览与轻度追剧。</p><h3>游戏加速</h3><p>旗舰版对热门对战与在线匹配做了 IPLC 专线优化，降低抖动。团队版提供更高带宽节点，适合多开或工作室环境。</p><h3>远程办公与学习</h3><p>会议、代码仓库与文献访问可通过规则分流，减少国内站点绕行，让跨境访问和本地访问同时保持顺畅。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为天航当前公开套餐，流量按自然月重置，支持年付优惠。请按同时在线设备数与使用强度选择。</p><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></section><section id=\"clients\" class=\"clients\"><h2>客户端选择</h2><p>天航强调先选对客户端，再导入机场订阅。不同系统推荐如下，均支持通用订阅格式，便于在电脑与手机之间同步节点。</p><div class=\"card\"><h3>Windows / macOS</h3><p>推荐 Clash Meta 内核图形客户端。导入订阅后开启系统代理并使用规则分流，适合作为主设备长期使用。</p></div><div class=\"card\"><h3>Android</h3><p>推荐 Clash Meta for Android。授予 VPN 权限后更新订阅，可按应用分流，减少游戏或银行类应用误走代理。</p></div><div class=\"card\"><h3>iOS</h3><p>常用 Shadowrocket、Stash 或 Quantumult X。通过 App Store 获取正版应用，粘贴天航订阅链接即可更新节点。</p></div><div class=\"card\"><h3>其他环境</h3><p>Linux 可使用 clash.meta 或图形前端；路由器可刷入支持订阅的固件。团队版可申请定制路由，把办公网与个人设备分开调度。</p></div><div class=\"notice\">请仅从正规应用商店或天航官网下载指引获取客户端。所谓“天航破解版”“一键连绿色包”均非官方来源。</div></section><section id=\"guide\"><h2>操作说明</h2><p>按下列纵向步骤完成首次连接，一般不超过十分钟。客户端选择正确后，后续只需更新订阅。</p><div class=\"steps\"><div class=\"step\"><h3>确认套餐与账号</h3><p>在天航官网选定基础版、旗舰版或团队版并完成开通，进入用户中心复制订阅地址。订阅属于账号凭证，请勿公开传播。</p></div><div class=\"step\"><h3>选择并安装客户端</h3><p>根据“客户端选择”安装对应软件。电脑优先 Clash 系图形界面，手机按系统选择成熟加速器，避免混用多个系统代理。</p></div><div class=\"step\"><h3>导入机场订阅</h3><p>在客户端中选择从 URL 更新或订阅管理，粘贴天航订阅链接并更新节点列表。若提示失败，检查链接完整性后重试。</p></div><div class=\"step\"><h3>选择节点并连接</h3><p>日常浏览选普通线路；看流媒体选解锁节点；玩游戏选 IPLC 或标注低延迟的专线。连接后查看延迟与出口是否符合预期。</p></div><div class=\"step\"><h3>规则分流与日常维护</h3><p>开启规则模式，国内直连、跨境走代理，可节省套餐流量。节点异常时先更新订阅再切换线路；旗舰与团队用户可通过优先工单反馈。</p></div></div></section><section id=\"download\"><h2>官方下载</h2><p>天航不强制绑定单一安装包，鼓励使用各平台成熟客户端再导入官方订阅。Windows、macOS 与 Android 的配置说明在用户中心“客户端下载”栏目提供校验信息；iOS 请直接在 App Store 搜索对应应用。</p><p>本页为天航官网公开说明，下载与套餐以登录后公示为准。若有人向你推销“内部节点包”或要求脱离官网付款，请提高警惕。</p><p><a href=\"#clients\">返回客户端选择</a> · <a href=\"#guide\">查看操作步骤</a> · <a href=\"#plans\">查看套餐</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>天航和普通单一出口 VPN 有什么不同？</summary><p>天航以机场订阅提供多节点、可切换线路，并按流媒体解锁与游戏加速做了分类。你可以按场景选节点，而不是绑定一个固定出口。</p></details><details><summary>如何下载天航可用的客户端？</summary><p>电脑推荐 Clash Meta 图形客户端，安卓使用 Clash Meta for Android，苹果设备使用 Shadowrocket 等。详见本页客户端选择；安装后导入天航订阅即可，无需寻找破解安装包。</p></details><details><summary>订阅链接在哪里复制？</summary><p>开通套餐后登录天航用户中心，在仪表盘或订阅管理中复制通用订阅 URL。多数客户端支持一键导入 Clash 兼容格式。</p></details><details><summary>设备数量超限会怎样？</summary><p>同时在线超过套餐上限时，新会话可能无法建立或挤掉最早设备。基础版 3 台、旗舰版 5 台、团队版 20 台，请按实际终端数量选购。</p></details><details><summary>流量包含哪些用途？</summary><p>经代理产生的跨境流量计入套餐额度，国内直连通常不计。高清流媒体与大文件下载消耗较快，重度使用更适合旗舰版或团队版。</p></details><details><summary>节点连不上如何排查？</summary><p>先更新订阅并更换节点或协议，确认系统时间准确、客户端已获 VPN 权限，并关闭其他冲突的加速软件。仍失败时通过工单反馈，旗舰与团队用户优先处理。</p></details><details><summary>年付与月付如何选择？</summary><p>确定长期使用再选年付更划算：基础版按年付仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。具体开通与变更以用户中心规则为准。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"footer-inner\"><p>天航官方网站 · 网络加速与机场订阅服务</p><div class=\"ad\">合作展示：企业跨境组网与团队加速方案，欢迎通过天航官网联系商务。</div><div class=\"sitemap\"><strong>网站地图</strong><div class=\"links\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端选择</a><a href=\"#guide\">操作说明</a><a href=\"#download\">官方下载</a><a href=\"#faq\">常见问题</a></div></div><div><strong>友情链接</strong><div class=\"links\"><a href=\"#\">网络加速百科</a><a href=\"#\">Clash 使用手册</a><a href=\"#\">流媒体解锁指南</a><a href=\"#\">IPLC 线路说明</a></div></div><p>© 天航 保留所有权利。本站为天航官网信息页，客户端下载与机场订阅请以用户中心公示为准。</p></div></footer>",
+          "hash": "0e23edd87387f85e1b6840e8be2db78b379595890fc6849a49e5b494c50c6f9d",
+          "seo": {
+            "title": "天航官网 - VPN梯子网络加速器与机场客户端官方下载",
+            "keywords": "天航,天航VPN,天航机场,天航官网,VPN梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "天航是面向全球用户的网络加速服务，提供稳定的天航机场订阅、多协议客户端下载与流媒体解锁，支持游戏加速与跨境办公，欢迎访问天航官方网站获取最新下载与套餐。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jianghechunfang.cn",
+    "host": "p-16271de74f.jianghechunfang.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "jianghechunfang.cn",
+      "url": "https://jianghechunfang.cn/",
+      "label": "FastLink",
+      "apex": "jianghechunfang.cn",
+      "kind": null,
+      "identity": "ubwphwap/page-0bee9c4ee795cc01aa896d9b"
+    },
+    {
+      "host": "kqoxf.cn",
+      "url": "https://kqoxf.cn/",
+      "label": "天航",
+      "apex": "kqoxf.cn",
+      "kind": null,
+      "identity": "ctukukdef/page-b66780ef29037bc0fd5f9228"
+    },
+    {
+      "host": "kzdccz.cn",
+      "url": "https://kzdccz.cn/",
+      "label": "天航",
+      "apex": "kzdccz.cn",
+      "kind": null,
+      "identity": "hfjnqeg/page-e30d0757cec251cbbb3a3078"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ab8faf08d088d5bf94948a8e722606d359a51539d932e803520a9a4b2e445d17",
+    "sitemap.xml": "32b12f448c2843c09ce6c36d6b4d6a2b3b5ca2c0de711d22a51202ce2a7f389a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2ee7da84c6adf0d7332f98612d2ed7308601bf363bca7c611a4660989d2f5d1e",
+    "robots.txt": "2316da69896c36f77774266ff044a32e46a96b83cd0a988323dc48a3fef53f70",
+    "f49f1f07ebc5ce61e8ce69282fa7c3af.txt": "ba7ac4dfcb730bfd1843a3f7a905cb53bae47ac68f6287981bd89e49b17c1b27"
+  },
+  "revision": "984a3c170f3502c02e7323696972557f86b50449ccab0d17fe98e09eea4a8be0"
+}
